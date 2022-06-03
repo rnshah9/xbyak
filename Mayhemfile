@@ -1,0 +1,7 @@
+project: xbyak
+target: xbyak
+image: ghcr.io/rnshah9/playground:xbyak
+
+cmds:
+  - cmd: /repo/sample/bf64 /test.bf
+    filepath: /test.bf
