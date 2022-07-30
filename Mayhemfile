@@ -2,5 +2,4 @@ project: xbyak
 target: bf64
 
 cmds:
-  - cmd: /repo/sample/bf64 /test.bf
-    filepath: /test.bf
+  - cmd: /bf64 @@
